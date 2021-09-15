@@ -1,26 +1,20 @@
 [
-    {
-        "title": "Testing",
-        "description": "This is a description. This is very poggers.",
-        "imgWidth": "20vh",
-        "image": "https://gblobscdn.gitbook.com/assets%2F-MeEHe7caltVbw767VIt%2F-MhjfdwO3JDIwRGwG72o%2F-MhkM8EqV7qd-2WrxEBH%2Ftreefarmer.png?alt=media&token=a1bd1314-38cc-4f47-b786-a6a1475dcdcb"
-    },
-    {
-        "title": "Testing",
-        "description": "This is a description. This is very poggers.",
-        "imgWidth": "20vh",
-        "image": "https://gblobscdn.gitbook.com/assets%2F-MeEHe7caltVbw767VIt%2F-MhjfdwO3JDIwRGwG72o%2F-MhkM8EqV7qd-2WrxEBH%2Ftreefarmer.png?alt=media&token=a1bd1314-38cc-4f47-b786-a6a1475dcdcb"
-    },
-    {
-        "title": "Testing",
-        "description": "This is a description. This is very poggers.",
-        "imgWidth": "20vh",
-        "image": "https://gblobscdn.gitbook.com/assets%2F-MeEHe7caltVbw767VIt%2F-MhjfdwO3JDIwRGwG72o%2F-MhkM8EqV7qd-2WrxEBH%2Ftreefarmer.png?alt=media&token=a1bd1314-38cc-4f47-b786-a6a1475dcdcb"
-    },
-    {
-        "title": "Testing",
-        "description": "This is a description. This is very poggers.",
-        "imgWidth": "20vh",
-        "image": "https://gblobscdn.gitbook.com/assets%2F-MeEHe7caltVbw767VIt%2F-MhjfdwO3JDIwRGwG72o%2F-MhkM8EqV7qd-2WrxEBH%2Ftreefarmer.png?alt=media&token=a1bd1314-38cc-4f47-b786-a6a1475dcdcb"
-    }
+  {
+    "title": "Unique",
+    "description": "A game on Discord unlike no other, Tree Farmer brings an original bot to your server that cannot be found anywhere else.",
+    "imgWidth": "20vh",
+    "image": "https://gblobscdn.gitbook.com/assets%2F-MeEHe7caltVbw767VIt%2F-MhjfdwO3JDIwRGwG72o%2F-MhkM8EqV7qd-2WrxEBH%2Ftreefarmer.png?alt=media&token=a1bd1314-38cc-4f47-b786-a6a1475dcdcb"
+  },
+  {
+    "title": "Simple",
+    "description": "Tree Farmer uses Slash Commands and Buttons to make it simple for you to grind the game and not forget what to do.",
+    "imgWidth": "20vh",
+    "image": "https://gblobscdn.gitbook.com/assets%2F-MeEHe7caltVbw767VIt%2F-MhjfdwO3JDIwRGwG72o%2F-MhkM8EqV7qd-2WrxEBH%2Ftreefarmer.png?alt=media&token=a1bd1314-38cc-4f47-b786-a6a1475dcdcb"
+  },
+  {
+    "title": "Rewarding",
+    "description": "In the future, events will be hosted where farmers can earn real life rewards for playing the game.",
+    "imgWidth": "20vh",
+    "image": "https://gblobscdn.gitbook.com/assets%2F-MeEHe7caltVbw767VIt%2F-MhjfdwO3JDIwRGwG72o%2F-MhkM8EqV7qd-2WrxEBH%2Ftreefarmer.png?alt=media&token=a1bd1314-38cc-4f47-b786-a6a1475dcdcb"
+  }
 ]

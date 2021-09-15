@@ -14,13 +14,13 @@ function App() {
             Create beautiful tree farms and compete in challenges and events to earn real life rewards.
           </h2>
           <div className="mt-4 block sm:inline-flex">
-            <form action="https://discord.gg/sdGWm8JCfF">
+            <form action="https://treefarmer.xyz/invite">
               <button className="py-2 px-8 font-semibold rounded-lg focus:ring flex">
                 Invite
               </button>
             </form>
 
-            <form action="https://discord.com/invite/jRUWbXhCYN">
+            <form action="https://treefarmer.xyz/discord">
               <button className="mt-2 sm:mt-0 sm:ml-4 py-2 px-8 font-semibold rounded-lg focus:ring flex">
                 Community Server
               </button>
@@ -54,7 +54,7 @@ function App() {
       <div className="footer-color">
         <div className="py-20 text-center">
           <h1 className="text-4xl md:text-5xl font-extrabold mx-auto" style={{ maxWidth: "15em" }}>Ready to start farming?</h1>
-          
+
           <div className="mt-4 inline-flex">
             <form action="https://discord.gg/sdGWm8JCfF">
               <button className="py-2 px-8 font-semibold rounded-lg focus:ring flex">
@@ -65,7 +65,7 @@ function App() {
         </div>
       </div>
 
-      <Footer/>
+      <Footer />
     </div>
   </>);
 }
