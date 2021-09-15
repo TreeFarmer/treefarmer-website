@@ -1,5 +1,5 @@
 {
-  "name": "website",
+  "name": "treefarmer-website",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -36,5 +36,17 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "The main website for Tree Farmer",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TreeFarmer/treefarmer-website.git"
+  },
+  "author": "macedonga#1234",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TreeFarmer/treefarmer-website/issues"
+  },
+  "homepage": "https://github.com/TreeFarmer/treefarmer-website#readme"
 }
