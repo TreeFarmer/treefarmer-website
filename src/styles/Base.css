@@ -1,0 +1,89 @@
+* {
+    --tw-ring-color: #35a02f87;
+}
+
+body {
+  color: #333;
+  background-color: #fff;
+}
+
+input:focus,
+select:focus,
+textarea:focus,
+button:focus {
+    outline: none;
+}
+
+footer,
+header {
+  color: #fff;
+  background-color: #236F21;
+}
+
+.B {
+  color: #fff;
+  background-color: #236F21;
+}
+
+.loader {
+  background-color: #236F21;
+}
+
+.header-color {
+  color: #fff;
+  height: 30em;
+  background-color: #236F21;
+  clip-path: polygon(0 0,100% 0,100% 80%,0 100%)!important;
+}
+
+.footer-color {
+  color: #fff;
+  padding-top: 5rem;
+  background-color: #236F21;
+  clip-path: polygon(0 20%,100% 0,100% 100%,0 100%)!important;
+}
+
+@media (min-width: 768px) {
+  .header-color {
+    clip-path: polygon(0 0,100% 0,100% 60%,0 100%)!important;
+  }
+
+  .footer-color {
+    padding-top: 10rem;
+    clip-path: polygon(0 40%,100% 0,100% 100%,0 100%)!important;
+  }
+}
+
+@media (max-width: 768px) {
+  .header-color {
+    height: 25em;
+  }
+}
+
+@media (max-width: 400px) {
+  .header-color {
+    clip-path: none  !important;
+    padding-bottom: 5em;
+    height: 27em;
+  }
+
+  .footer-color {
+    clip-path: none !important;
+  }
+}
+
+.centered {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+button {
+  background-color: #34a030;
+  transition: background-color 0.15s linear;
+}
+
+button:hover {
+  background-color: #22851e;
+}
