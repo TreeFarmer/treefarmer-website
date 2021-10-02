@@ -15,7 +15,7 @@ ReactDOM.render(
     <Router>
       <Switch>
         <Route path="/invite" component={() => {
-          window.location.href = "https://discord.com/api/oauth2/authorize?client_id=877371589887422495&permissions=347136&scope=bot%20applications.commands";
+          window.location.href = "https://discord.com/api/oauth2/authorize?client_id=772935872646610994&permissions=347136&scope=bot%20applications.commands";
           return null;
         }} />
         <Route path="/discord" component={() => {
