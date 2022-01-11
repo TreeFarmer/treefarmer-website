@@ -2,19 +2,16 @@
 	{
 		"title": "Unique",
 		"description": "A game on Discord unlike no other, Tree Farmer brings an original bot to your server that cannot be found anywhere else.",
-		"imgWidth": "20vh",
 		"image": "https://cdn.discordapp.com/avatars/772935872646610994/5830f45bcc4be8bfdae1c89dfe90b0fd.png?size=2048"
 	},
 	{
 		"title": "Simple",
 		"description": "Tree Farmer uses Slash Commands and Buttons to make it simple for you to grind the game and not forget what to do.",
-		"imgWidth": "20vh",
 		"image": "https://cdn.discordapp.com/avatars/772935872646610994/5830f45bcc4be8bfdae1c89dfe90b0fd.png?size=2048"
 	},
 	{
 		"title": "Rewarding",
 		"description": "In the near future, events will be hosted where farmers can earn real life rewards for playing the game.",
-		"imgWidth": "20vh",
 		"image": "https://cdn.discordapp.com/avatars/772935872646610994/5830f45bcc4be8bfdae1c89dfe90b0fd.png?size=2048"
 	}
 ]

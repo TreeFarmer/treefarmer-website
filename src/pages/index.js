@@ -36,12 +36,16 @@ function App() {
 							return (
 								<div className="mx-auto px-4 mb-8">
 									<div className="text-left inline-flex p-4">
-										{!isEven ? <img alt={"promo" + i} className="mr-8" style={{ width: p.imgWidth }} src={p.image} /> : ""}
+										<div className="m-auto">
+											{!isEven ? <img alt={"promo" + i} className="mr-8" style={{ width: "20em" }} src={p.image} /> : ""}
+										</div>
 										<div className="mr-8 m-auto">
 											<h1 className="text-3xl md:text-5xl font-bold">{p.title}</h1>
 											<h2 className="text-xl md:text-2xl font-semibold mt-2" style={{ maxWidth: "20em" }}>{p.description}</h2>
 										</div>
-										{isEven ? <img alt={"promo" + i} style={{ width: p.imgWidth }} src={p.image} /> : ""}
+										<div className="m-auto">
+											{isEven ? <img alt={"promo" + i} style={{ width: "20em" }} src={p.image} /> : ""}
+										</div>
 									</div>
 								</div>
 							);
@@ -52,7 +56,7 @@ function App() {
 
 			<div className="footer-color">
 				<div className="py-20 text-center">
-					<h1 className="text-4xl md:text-5xl font-extrabold mx-auto" style={{ maxWidth: "15em" }}>Ready to start farming?</h1>
+					<h1 className="text-4xl md:text-5xl font-extrabold mx-auto px-4" style={{ maxWidth: "15em" }}>Ready to start farming?</h1>
 
 					<div className="mt-4 inline-flex">
 						<form action="/invite">
