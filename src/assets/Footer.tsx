@@ -1,4 +1,4 @@
-function App(props) {
+function App(): JSX.Element {
 	return (<>
 		<footer className="w-full p-8 -mt-1 main">
 			<div className="max-w-7xl mx-auto px-8 text-center font-semibold">
