@@ -1,5 +1,3 @@
-/* eslint-disable linebreak-style */
-
 function NotFound(): JSX.Element {
 	return (<>
 		<div id="content" className="h-screen w-screen grid items-center">
